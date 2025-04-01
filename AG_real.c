@@ -2,7 +2,7 @@
 #include <stdlib.h>  // Biblioteca para funções de alocação de memória e geração de números aleatórios
 #include <math.h>    // Biblioteca para funções matemáticas
 #include <time.h>    // Biblioteca para manipulação de tempo
-
+// Os Códigos para serem executados devem ser Compilados com o comando:  gcc AG_real.c -o real -lm
 
 // Estrutura que representa uma solução no algoritmo genético
 typedef struct {
