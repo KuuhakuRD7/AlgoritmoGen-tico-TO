@@ -4,7 +4,7 @@
 #include <time.h>    // Biblioteca para manipulação de tempo
 
 #define BITS 25 // Define o número de bits para a representação binária
-
+// Os Códigos para serem executados devem ser Compilados com o comando: gcc AG_bin.c -o bin -lm 
 // Estrutura que representa uma solução no algoritmo genético
 typedef struct {
     unsigned int x_bin; // Representação binária de x
